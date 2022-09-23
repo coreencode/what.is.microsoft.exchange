@@ -1,6 +1,6 @@
 # What is Microsoft Exchange?
 
-[![what is microsoft exchange](redd.png)](https://github.com/coreencode/what.is.microsoft.exchange)
+[![what is microsoft exchange](redd.png)](https://icncomputer.com/what-is-microsoft-exchange/)
 
 Exchange is Microsoft's groupware server, originally developed for corporate customers. Like other groupware solutions, it includes communication and organizational features, including:
 
